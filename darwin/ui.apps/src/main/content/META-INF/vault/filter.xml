@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<workspaceFilter version="1.0">
+    <filter root="/apps/darwin">
+        <exclude pattern="/apps/darwin/install" />
+    </filter>
+    <filter root="/apps/sling" />
+	<filter root="/conf/darwin" />
+    <filter root="/etc/designs/darwin"/>
+	<filter root="/etc/clientlibs/darwin"/>
+</workspaceFilter>
